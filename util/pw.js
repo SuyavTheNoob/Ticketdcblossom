@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
-const botName = "🎟️ TICKET BOT";
-const Text = "GlaceYT";
-const version = "Latest@ v1.0"; 
+const botName = "🌸 Blossom Tickets 🌸";
+const Text = "Vlyn's Yap";
+const version = "Latest@ v0.1"; 
 const startTime = Date.now();
 
 function printWatermark() {
