@@ -30,7 +30,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "Vlyn",
   "license": "XX",
   "engines": {
     "node": "18.x"
