@@ -1,6 +1,6 @@
 
 code License Agreement
-Between: [GlaceYT]
+Between: [Laplace]
 
 And: End-User ("Licensee")
 
