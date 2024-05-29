@@ -23,13 +23,3 @@ Contributions to this project are welcome! If you'd like to contribute, follow t
 
 Contact me on Discord for any queries or contributions.
 
-## Copyright
-
-All code in this project is authored by GlaceYT. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
-
-## Contact
-
-If you need any assistance or have questions, feel free to contact me on Discord.
-
-- **Discord Server**: [Join our Discord server](https://discord.gg/c4kaW2sSbm)
-- **YouTube**: [RTX's YouTube Channel](https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A)
