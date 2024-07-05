@@ -41,7 +41,8 @@ fs.readdir(config.commandsDir, (err, files) => {
   });
 });
 
-
+const events = require('events');
+client.setMaxListeners(20);
 const { closeTicket, createTicket } = require('./commands/setup');
 const processedInteractions = new Set();
 client.on('interactionCreate', async interaction => {
