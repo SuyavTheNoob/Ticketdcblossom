@@ -42,7 +42,7 @@ fs.readdir(config.commandsDir, (err, files) => {
 });
 
 const events = require('events');
-client.setMaxListeners(10);
+client.setMaxListeners(5);
 const { closeTicket, createTicket } = require('./commands/setup');
 const processedInteractions = new Set();
 client.on('interactionCreate', async interaction => {
